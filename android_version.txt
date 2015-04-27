@@ -1,1 +1,1 @@
-1;null;https://github.com/chumduduxanh/streamter/raw/master/streamterplayer.apk;
+2;null;https://github.com/chumduduxanh/streamter/raw/master/streamterplayer.apk;
