@@ -1,1 +1,1 @@
-2;null;http://192.168.1.5/apppolicy/sites/default/files/Streamterplayer.apk;
+2;null;https://github.com/chumduduxanh/streamter/raw/master/streamterplayer.apk;
